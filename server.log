@@ -1,0 +1,388 @@
+/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/langgraph/checkpoint/base/__init__.py:17: LangChainPendingDeprecationWarning: The default value of `allowed_objects` will change in a future version. Pass an explicit value (e.g., allowed_objects='messages' or allowed_objects='core') to suppress this warning.
+  from langgraph.checkpoint.serde.jsonplus import JsonPlusSerializer
+2026-05-22 15:17:50,978 [INFO] Chaves CDP ausentes. Inicializando provedor de carteira local (EthAccountWalletProvider).
+2026-05-22 15:17:50,978 [INFO] Chave privada local carregada com sucesso do arquivo.
+2026-05-22 15:17:51,227 [INFO] Endereço da carteira local na rede base-mainnet (Chain ID 8453): 0xC5Afe3898aa4F7F5f60352dd02e2c86B2f1aafFC
+2026-05-22 15:17:51,228 [INFO] Carteira carregada com sucesso: 0xC5Afe3898aa4F7F5f60352dd02e2c86B2f1aafFC
+2026-05-22 15:17:51,228 [INFO] Chaves CDP ausentes. Inicializando provedor de carteira local (EthAccountWalletProvider).
+2026-05-22 15:17:51,228 [INFO] Chave privada local carregada com sucesso do arquivo.
+2026-05-22 15:17:51,463 [INFO] Endereço da carteira local na rede base-mainnet (Chain ID 8453): 0xC5Afe3898aa4F7F5f60352dd02e2c86B2f1aafFC
+2026-05-22 15:17:51,463 [INFO] Usando provedor de carteira local. Carregando ferramentas compatíveis de carteira e ERC20.
+2026-05-22 15:17:51,473 [WARNING] Chave OPENAI_API_KEY ausente ou inválida. Inicializando com MockAgent (modo de simulação cognitiva).
+2026-05-22 15:17:51,474 [INFO] [SYSTEM] Agente inicializado com sucesso na rede base-mainnet!
+2026-05-22 15:17:51,474 [INFO] [WALLET] Endereço da carteira: 0xC5Afe3898aa4F7F5f60352dd02e2c86B2f1aafFC
+2026-05-22 15:17:51,475 [INFO] [SYSTEM] Estado de trading carregado. Total de trades registrados: 536
+INFO:     Started server process [88248]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64508 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64516 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:07,356 [INFO] Usando preço do Pyth como fallback: $2118.51
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:10,371 [INFO] Usando preço do Pyth como fallback: $2118.51
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:13,430 [INFO] Usando preço do Pyth como fallback: $2118.49
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:16,382 [INFO] Usando preço do Pyth como fallback: $2118.44
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:22,331 [INFO] Usando preço do Pyth como fallback: $2118.45
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:25,405 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:28,867 [INFO] Usando preço do Pyth como fallback: $2118.44
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:31,879 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:34,854 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:37,889 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:40,406 [INFO] Usando preço do Pyth como fallback: $2118.78
+INFO:     127.0.0.1:64500 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64782 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64782 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "GET /static/css/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /static/js/app.js HTTP/1.1" 200 OK
+2026-05-22 15:18:42,273 [INFO] Usando preço do Pyth como fallback: $2118.80
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:45,253 [INFO] Usando preço do Pyth como fallback: $2118.77
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:48,284 [INFO] Usando preço do Pyth como fallback: $2118.84
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:51,269 [INFO] Usando preço do Pyth como fallback: $2118.78
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:54,405 [INFO] Usando preço do Pyth como fallback: $2118.78
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:18:57,234 [INFO] Usando preço do Pyth como fallback: $2118.61
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:03,235 [INFO] Usando preço do Pyth como fallback: $2118.73
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:06,254 [INFO] Usando preço do Pyth como fallback: $2118.83
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:21,260 [INFO] Usando preço do Pyth como fallback: $2118.97
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:24,237 [INFO] Usando preço do Pyth como fallback: $2119.06
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:27,273 [INFO] Usando preço do Pyth como fallback: $2119.06
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:30,227 [INFO] Usando preço do Pyth como fallback: $2118.98
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:32,999 [INFO] Usando preço do Pyth como fallback: $2119.10
+INFO:     127.0.0.1:65063 - "GET /api/status HTTP/1.1" 200 OK
+2026-05-22 15:19:34,862 [INFO] Usando preço do Pyth como fallback: $2119.25
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+2026-05-22 15:19:36,632 [INFO] Usando preço do Pyth como fallback: $2118.86
+INFO:     127.0.0.1:65087 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65087 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:39,240 [INFO] Usando preço do Pyth como fallback: $2119.06
+INFO:     127.0.0.1:65087 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65115 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65087 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:43,148 [INFO] Usando preço do Pyth como fallback: $2118.86
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:45,293 [INFO] Usando preço do Pyth como fallback: $2118.86
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:48,214 [INFO] Usando preço do Pyth como fallback: $2118.87
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:54,303 [INFO] Usando preço do Pyth como fallback: $2118.68
+INFO:     127.0.0.1:64789 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64789 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:19:57,224 [INFO] Usando preço do Pyth como fallback: $2118.68
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:00,386 [INFO] Usando preço do Pyth como fallback: $2118.77
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:03,218 [INFO] Usando preço do Pyth como fallback: $2118.74
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:06,246 [INFO] Usando preço do Pyth como fallback: $2118.75
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:09,222 [INFO] Usando preço do Pyth como fallback: $2118.73
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:12,249 [INFO] Usando preço do Pyth como fallback: $2118.64
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:18,613 [INFO] Usando preço do Pyth como fallback: $2118.61
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:30,330 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:33,260 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:36,231 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:39,336 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:42,207 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:48,249 [INFO] Usando preço do Pyth como fallback: $2118.42
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:51,217 [INFO] Usando preço do Pyth como fallback: $2118.40
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:54,235 [INFO] Usando preço do Pyth como fallback: $2118.42
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:20:57,222 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:00,299 [INFO] Usando preço do Pyth como fallback: $2118.42
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:03,223 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:06,228 [INFO] Usando preço do Pyth como fallback: $2118.60
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:12,335 [INFO] Usando preço do Pyth como fallback: $2118.56
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:15,772 [INFO] Usando preço do Pyth como fallback: $2118.43
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:18,213 [INFO] Usando preço do Pyth como fallback: $2118.44
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:21,307 [INFO] Usando preço do Pyth como fallback: $2118.47
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:24,281 [INFO] Usando preço do Pyth como fallback: $2118.50
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:27,214 [INFO] Usando preço do Pyth como fallback: $2118.45
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:45,244 [INFO] Usando preço do Pyth como fallback: $2118.54
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:48,206 [INFO] Usando preço do Pyth como fallback: $2118.60
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:51,268 [INFO] Usando preço do Pyth como fallback: $2118.61
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:54,216 [INFO] Usando preço do Pyth como fallback: $2118.60
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:21:57,231 [INFO] Usando preço do Pyth como fallback: $2118.57
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:00,213 [INFO] Usando preço do Pyth como fallback: $2118.56
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:03,610 [INFO] Usando preço do Pyth como fallback: $2118.58
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:06,263 [INFO] Usando preço do Pyth como fallback: $2118.59
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:09,294 [INFO] Usando preço do Pyth como fallback: $2118.59
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:15,213 [INFO] Usando preço do Pyth como fallback: $2118.73
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:18,206 [INFO] Usando preço do Pyth como fallback: $2118.73
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:21,258 [INFO] Usando preço do Pyth como fallback: $2118.69
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:24,250 [INFO] Usando preço do Pyth como fallback: $2118.61
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:27,221 [INFO] Usando preço do Pyth como fallback: $2118.61
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:30,242 [INFO] Usando preço do Pyth como fallback: $2118.50
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:34,717 [INFO] Usando preço do Pyth como fallback: $2118.45
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+2026-05-22 15:22:36,655 [INFO] Usando preço do Pyth como fallback: $2118.50
+INFO:     127.0.0.1:49661 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:39,252 [INFO] Usando preço do Pyth como fallback: $2118.46
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:22:42,527 [INFO] Usando preço do Pyth como fallback: $2118.46
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49770 - "GET /api/status HTTP/1.1" 200 OK
+2026-05-22 15:22:57,271 [INFO] Usando preço do Pyth como fallback: $2119.30
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:23:00,276 [INFO] Usando preço do Pyth como fallback: $2119.30
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:23:03,242 [INFO] Usando preço do Pyth como fallback: $2119.29
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+2026-05-22 15:23:06,306 [INFO] Usando preço do Pyth como fallback: $2119.06
+INFO:     127.0.0.1:65203 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65203 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     Shutting down
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import uvicorn; uvicorn.run('main:app', host='0.0.0.0', port=8000, loop='asyncio')
+                    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/main.py", line 620, in run
+    server.run()
+    ~~~~~~~~~~^^
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/server.py", line 75, in run
+    return asyncio_run(self.serve(sockets=sockets), loop_factory=self.config.get_loop_factory())
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/futures.py", line 208, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/tasks.py", line 289, in __step_run_and_handle_result
+    result = coro.send(None)
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/server.py", line 79, in serve
+    await self._serve(sockets)
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/server.py", line 98, in _serve
+    await self.shutdown(sockets=sockets)
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/server.py", line 287, in shutdown
+    await asyncio.wait_for(
+    ...<2 lines>...
+    )
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/tasks.py", line 487, in wait_for
+    async with timeouts.timeout(timeout):
+               ~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/timeouts.py", line 88, in __aenter__
+    raise RuntimeError("Timeout should be used inside a task")
+RuntimeError: Timeout should be used inside a task
+2026-05-22 15:23:08,364 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<LifespanOn.main() running at /Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/lifespan/on.py:86> wait_for=<Future pending cb=[Task.__wakeup()]>>
+--- Logging error ---
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/queues.py", line 186, in get
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/starlette/routing.py", line 645, in lifespan
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/lifespan/on.py", line 137, in receive
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/queues.py", line 188, in get
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/futures.py", line 164, in cancel
+    self.__schedule_callbacks()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/futures.py", line 179, in __schedule_callbacks
+    self._loop.call_soon(callback, self, context=ctx)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
+RuntimeError: Event loop is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/logging/__init__.py", line 1151, in emit
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/logging/__init__.py", line 999, in format
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/logging/__init__.py", line 715, in format
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/logging.py", line 56, in formatMessage
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copy.py", line 90, in copy
+ImportError: sys.meta_path is None, Python is likely shutting down
+Call stack:
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/starlette/routing.py", line 649, in lifespan
+  File "/Users/pedrohedro/Base-AI-Agentic\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/lifespan/on.py", line 134, in send
+Message: 'Traceback (most recent call last):\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/queues.py", line 186, in get\nGeneratorExit\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/Users/pedrohedro/Base-AI-Agentic\\/Base-AI-Agentic/venv/lib/python3.14/site-packages/starlette/routing.py", line 645, in lifespan\n  File "/Users/pedrohedro/Base-AI-Agentic\\/Base-AI-Agentic/venv/lib/python3.14/site-packages/uvicorn/lifespan/on.py", line 137, in receive\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/queues.py", line 188, in get\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/futures.py", line 164, in cancel\n    self.__schedule_callbacks()\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/futures.py", line 179, in __schedule_callbacks\n    self._loop.call_soon(callback, self, context=ctx)\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 827, in call_soon\n  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed\nRuntimeError: Event loop is closed\n'
+Arguments: ()
+<sys>:0: RuntimeWarning: coroutine 'Server._wait_tasks_to_complete' was never awaited

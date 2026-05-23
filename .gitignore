@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Sensitive credentials and keys (CRITICAL)
+.env
+wallet_data.txt
+cdp_api_key.json
+*.pem
+*.key
+
+# Local database/state backup files
+*.bak
+*.db
+*.sqlite
+
+# IDE configuration
+.vscode/
+.idea/
+.DS_Store

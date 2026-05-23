@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base Agentic - Autonomous Trading Dashboard</title>
+    <!-- Google Fonts: Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Chart.js para gráficos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="background-decor">
+        <div class="glow-circle blue"></div>
+        <div class="glow-circle purple"></div>
+    </div>
+
+    <div class="dashboard-wrapper">
+        <!-- HEADER -->
+        <header class="glass-container header-card">
+            <div class="logo-area">
+                <span class="badge neon-blue">Base L2</span>
+                <h1>Base<span class="gradient-text">Agentic</span></h1>
+                <p class="subtitle">Agente Autónomo de Trading & Execução On-Chain</p>
+            </div>
+            
+            <div class="header-stats">
+                <div class="stat-box">
+                    <span class="stat-label">Endereço da Carteira</span>
+                    <div class="address-copy-container">
+                        <span id="wallet-address" class="stat-value address-text">Carregando...</span>
+                        <button id="btn-copy-address" class="icon-btn" title="Copiar endereço">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="stat-box">
+                    <span class="stat-label">Saldo ETH</span>
+                    <span id="wallet-balance" class="stat-value balance-value">0.00000 ETH</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">Saldo USDC</span>
+                    <span id="usdc-balance" class="stat-value balance-value usdc-value">0.00 USDC</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">Total da Carteira</span>
+                    <span id="total-wallet-value" class="stat-value balance-value text-blue font-mono">$0.00</span>
+                    <span id="total-wallet-breakdown" class="stat-detail text-muted font-mono">$0.00 ETH + $0.00 USDC</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">Custo Médio Compra</span>
+                    <span id="avg-buy-price" class="stat-value text-blue font-mono">0.00 USD</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">Posição Aberta</span>
+                    <span id="open-position" class="stat-value balance-value text-cyan font-mono">0.00000 ETH ($0.00)</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">Total Trades</span>
+                    <span id="total-trades" class="stat-value font-mono">0</span>
+                </div>
+
+                <div class="stat-box">
+                    <span class="stat-label">PnL Consolidado</span>
+                    <span id="consolidated-pnl" class="stat-value font-mono pnl-neutral">$0.00</span>
+                </div>
+                
+                <div class="stat-box">
+                    <span class="stat-label">Status do Sistema</span>
+                    <div class="status-indicator-wrapper">
+                        <span id="status-pulse" class="status-pulse offline"></span>
+                        <span id="status-text" class="stat-value status-text">Inativo</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- GRID PRINCIPAL -->
+        <main class="main-grid">
+            <!-- PAINEL DA ESQUERDA: CONTROLE E LOGS -->
+            <section class="left-column">
+                <div class="glass-container control-card">
+                    <h2>Painel de Controle</h2>
+                    <p class="section-desc">Ative o trading automatizado ou interaja diretamente com a blockchain.</p>
+                    
+                    <div class="control-actions">
+                        <button id="btn-toggle-trading" class="btn btn-primary btn-glow">
+                            <span class="btn-text">Ativar Trading Autônomo</span>
+                            <span class="btn-loader hidden"></span>
+                        </button>
+                        
+                        <div class="info-block">
+                            <div class="info-row">
+                                <span>Rede Ativa:</span>
+                                <span id="info-network" class="bold text-blue">Base Sepolia</span>
+                            </div>
+                            <div class="info-row">
+                                <span>Intervalo de Análise:</span>
+                                <span>A cada 2 minutos</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="quick-links">
+                        <h3>Links Úteis</h3>
+                        <div class="links-grid">
+                            <a href="https://sepolia.basescan.org/" target="_blank" class="link-item">BaseScan Sepolia ↗</a>
+                            <a href="https://faucet.coinbase.com/" target="_blank" class="link-item">Coinbase Faucet ↗</a>
+                            <a href="https://portal.cdp.coinbase.com/" target="_blank" class="link-item">Painel CDP ↗</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TABS SELECTOR -->
+                <div class="tabs-container">
+                    <button class="tab-btn active" data-tab="spot">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>
+                        Spot (Base)
+                    </button>
+                    <button class="tab-btn" data-tab="futures">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM7 10h2v7H7zm4-3h2v10h-2zm4 6h2v4h-2z"/></svg>
+                        Futuros (Hyperliquid)
+                    </button>
+                </div>
+
+                <!-- TAB CONTENT: SPOT -->
+                <div id="spot-tab-content" class="tab-pane active">
+                    <!-- DESEMPENHO E BENCHMARKS -->
+                    <div class="glass-container performance-card">
+                        <div class="performance-header-row">
+                            <h2>Desempenho por Período</h2>
+                            <div class="timeframe-selector">
+                                <button class="timeframe-btn active" data-window="24h">24H</button>
+                                <button class="timeframe-btn" data-window="48h">48H</button>
+                                <button class="timeframe-btn" data-window="7d">7D</button>
+                                <button class="timeframe-btn" data-window="14d">14D</button>
+                                <button class="timeframe-btn" data-window="30d">30D</button>
+                                <button class="timeframe-btn" data-window="60d">60D</button>
+                                <button class="timeframe-btn" data-window="90d">90D</button>
+                            </div>
+                        </div>
+                        
+                        <div class="performance-grid">
+                            <div class="performance-metric-box agent-box">
+                                <span class="perf-label">Retorno do Agente</span>
+                                <span id="perf-agent-val" class="perf-val value-neutral">0.00%</span>
+                                <span id="perf-agent-usd" class="perf-sub-val">$0.00 USD</span>
+                                <div class="perf-badge-wrapper">
+                                    <span id="perf-beat-badge" class="perf-badge">OUTPERFORM</span>
+                                </div>
+                            </div>
+                            
+                            <div class="performance-metric-box">
+                                <span class="perf-label">Buy & Hold ETH</span>
+                                <span id="perf-bh-val" class="perf-val value-neutral">0.00%</span>
+                                <span id="perf-bh-prices" class="perf-sub-val">$0.00 ➔ $0.00</span>
+                            </div>
+                            
+                            <div class="performance-metric-box">
+                                <span class="perf-label">DCA Diário ETH</span>
+                                <span id="perf-dca-val" class="perf-val value-neutral">0.00%</span>
+                                <span id="perf-dca-usd" class="perf-sub-val">$0.00 USD</span>
+                            </div>
+                        </div>
+                        <div class="performance-footer">
+                            * O retorno do agente reconstrói a carteira histórica subtraindo/somando swaps executados.
+                        </div>
+                    </div>
+
+                    <!-- GRÁFICO DE ANÁLISE -->
+                    <div class="glass-container chart-card">
+                        <div class="chart-header-row">
+                            <h2>Monitoramento ETH/USD</h2>
+                            <div class="price-feeds-container">
+                                <div class="price-feed-pill coingecko">
+                                    <span class="feed-label">CoinGecko</span>
+                                    <span id="eth-price-coingecko" class="feed-value">Carregando...</span>
+                                </div>
+                                <div class="price-feed-pill pyth">
+                                    <span class="feed-label">Pyth Network</span>
+                                    <span id="eth-price-pyth" class="feed-value">Carregando...</span>
+                                </div>
+                                <div id="market-trend-badge" class="trend-badge lateral">
+                                    <span class="trend-dot"></span>
+                                    <span id="market-trend-text">Lateral</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="priceChart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- HISTÓRICO DE TRADES -->
+                    <div class="glass-container trades-card">
+                        <h2>Histórico de Operações</h2>
+                        <p class="section-desc">Swaps autônomos executados na Base Sepolia.</p>
+                        <div class="table-container">
+                            <table class="trades-table">
+                                <thead>
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Tipo</th>
+                                        <th>ETH</th>
+                                        <th>USDC</th>
+                                        <th>Preço</th>
+                                        <th>PnL</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="trades-body">
+                                    <tr>
+                                        <td colspan="6" class="text-center">Nenhuma operação detectada.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <p class="table-legend">* PnL para COMPRA (BUY) é estimado / não realizado com base no preço atual. PnL para VENDA (SELL) é realizado.</p>
+                    </div>
+                </div>
+
+                <!-- TAB CONTENT: FUTURES -->
+                <div id="futures-tab-content" class="tab-pane">
+                    <!-- FUTURES ACCOUNT SUMMARY -->
+                    <div class="glass-container futures-margin-card">
+                        <h2>Resumo da Conta de Futuros</h2>
+                        <p class="section-desc">Detalhamento de saldo e margem na Hyperliquid L1 (Testnet/Mainnet).</p>
+                        
+                        <div class="futures-stats-grid">
+                            <div class="f-stat-box">
+                                <span class="f-stat-label">Valor da Conta</span>
+                                <span id="f-account-value" class="f-stat-value text-blue">$0.00</span>
+                            </div>
+                            <div class="f-stat-box">
+                                <span class="f-stat-label">Margem Disponível</span>
+                                <span id="f-available-margin" class="f-stat-value text-cyan">$0.00</span>
+                            </div>
+                            <div class="f-stat-box">
+                                <span class="f-stat-label">Margem em Posição</span>
+                                <span id="f-position-margin" class="f-stat-value text-purple">$0.00</span>
+                            </div>
+                            <div class="f-stat-box">
+                                <span class="f-stat-label">PnL Não Realizado</span>
+                                <span id="f-unrealized-pnl" class="f-stat-value pnl-neutral">$0.00</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- FUTURES ACTIVE POSITIONS -->
+                    <div class="glass-container futures-positions-card">
+                        <h2>Posições Ativas</h2>
+                        <p class="section-desc">Posições de futuros perpétuos em aberto na Hyperliquid L1.</p>
+                        <div class="table-container">
+                            <table class="positions-table">
+                                <thead>
+                                    <tr>
+                                        <th>Ativo</th>
+                                        <th>Direção</th>
+                                        <th>Tamanho</th>
+                                        <th>Preço Entrada</th>
+                                        <th>Preço Marca</th>
+                                        <th>Alavancagem</th>
+                                        <th>PnL Não Realizado</th>
+                                        <th>Limites SL/TP</th>
+                                        <th>Ações</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="futures-positions-body">
+                                    <tr>
+                                        <td colspan="9" class="text-center">Nenhuma posição aberta encontrada.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- FUTURES TRADES HISTORY -->
+                    <div class="glass-container futures-trades-card">
+                        <h2>Histórico de Operações (Futuros)</h2>
+                        <p class="section-desc">Trades de futuros perpétuos executados na Hyperliquid.</p>
+                        <div class="table-container">
+                            <table class="positions-table">
+                                <thead>
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Ativo</th>
+                                        <th>Operação</th>
+                                        <th>Tamanho</th>
+                                        <th>Preço</th>
+                                        <th>Alavancagem</th>
+                                        <th>Margem</th>
+                                        <th>PnL Realizado</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="futures-trades-body">
+                                    <tr>
+                                        <td colspan="8" class="text-center">Nenhum trade de futuros registrado.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- FUTURES FAUCET GUIDE -->
+                    <div class="glass-container futures-faucet-card">
+                        <div class="faucet-header-row">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="var(--neon-cyan)" viewBox="0 0 24 24"><path d="M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm1 16h-2v-6h2v6zm0-8h-2v-2h2v2z"/></svg>
+                            <h2>Faucet da Hyperliquid Testnet</h2>
+                        </div>
+                        <p class="faucet-desc">
+                            Para testar o robô no modo real na testnet (com <code>DRY_RUN=false</code>), você precisará de fundos fictícios. Siga os passos:
+                        </p>
+                        <ol class="faucet-steps">
+                            <li>Acesse o Faucet Oficial: <a href="https://app.hyperliquid-testnet.xyz/drip" target="_blank" class="faucet-link">app.hyperliquid-testnet.xyz/drip ↗</a></li>
+                            <li>Insira o endereço da carteira do Agente:
+                                <div class="agent-address-display">
+                                    <span id="agent-wallet-addr-faucet" class="agent-wallet-addr-faucet font-mono">0xC5Afe3898aa4F7F5f60352dd02e2c86B2f1aafFC</span>
+                                    <button id="btn-copy-address-faucet" class="icon-btn-faucet" title="Copiar endereço da carteira">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+                                    </button>
+                                </div>
+                            </li>
+                            <li>Clique em <strong>"Request testnet funds"</strong> para obter $1000.00 USDC e gás fictício para a conta.</li>
+                        </ol>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PAINEL DA DIREITA: CONVERSA E LOGS DO TERMINAL -->
+            <section class="right-column">
+                <!-- TERMINAL DE LOGS -->
+                <div class="glass-container terminal-card">
+                    <div class="card-header">
+                        <h2>Terminal de Execução</h2>
+                        <button id="btn-clear-logs" class="btn-text-only">Limpar Logs</button>
+                    </div>
+                    <div id="logs-container" class="terminal-body">
+                        <!-- Logs inseridos dinamicamente por JS -->
+                        <div class="log-line system">Iniciando painel...</div>
+                    </div>
+                </div>
+
+                <!-- CHAT INTERATIVO COM O AGENTE -->
+                <div class="glass-container chat-card">
+                    <h2>Conversar com o Agente</h2>
+                    <p class="section-desc">Instrua o agente diretamente (ex: "faça swap", "verifique saldo").</p>
+                    
+                    <div id="chat-messages" class="chat-messages-container">
+                        <div class="chat-message agent">
+                            <div class="msg-avatar">🤖</div>
+                            <div class="msg-content-wrapper">
+                                <span class="msg-sender">Base Agentic</span>
+                                <p class="msg-text">Olá! Sou seu agente de trading autônomo na rede Base. Como posso ajudar você hoje?</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <form id="chat-form" class="chat-input-area">
+                        <input type="text" id="chat-input" placeholder="Pergunte ao agente ou envie uma instrução..." autocomplete="off" required>
+                        <button type="submit" id="btn-send-chat" class="chat-submit-btn">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+                        </button>
+                    </form>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Script principal -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

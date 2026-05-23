@@ -1,0 +1,5635 @@
+{
+  "average_buy_price": 2140.484552602082,
+  "total_eth_bought": 0.04588447035537105,
+  "total_usdc_spent": 98.2149999999999,
+  "total_trades": 680,
+  "trades_history": [
+    {
+      "timestamp": "2026-05-21 12:30:15",
+      "type": "BUY",
+      "eth_amount": 0.001,
+      "usdc_amount": 3.1,
+      "price": 3100.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-21 14:15:22",
+      "type": "BUY",
+      "eth_amount": 0.001,
+      "usdc_amount": 3.12,
+      "price": 3120.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-21 15:45:00",
+      "type": "SELL",
+      "eth_amount": 0.0005,
+      "usdc_amount": 1.575,
+      "price": 3150.0,
+      "pnl": 0.02
+    },
+    {
+      "timestamp": "2026-05-22 10:01:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:02:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:02:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:03:34",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.6,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:04:10",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.6,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:04:46",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:05:22",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:05:58",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:06:34",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:07:10",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:07:47",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:08:23",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:08:59",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:09:35",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:10:11",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:10:48",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:11:24",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:12:00",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:12:36",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:13:12",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:13:48",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:14:24",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:15:00",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:15:36",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:16:13",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:16:49",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:17:26",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:18:02",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:18:38",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:19:14",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:19:50",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:20:26",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:21:02",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:21:38",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.05,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:22:14",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.05,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:22:50",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2132.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:23:26",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:24:03",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2131.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:24:39",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:25:15",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2130.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:25:51",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2129.65,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:26:27",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2129.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:27:03",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2129.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:27:39",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2129.44,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:28:15",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.82,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:28:51",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.82,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:29:28",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:30:04",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:30:40",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:31:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:31:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:32:28",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:33:05",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:33:41",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.83,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:34:17",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:34:53",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:35:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:36:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:36:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:37:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:37:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:38:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:39:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:39:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.22,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:40:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:40:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:41:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:42:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:42:43",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.68,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:43:19",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:43:55",
+      "type": "BUY",
+      "eth_amount": 2.3e-05,
+      "usdc_amount": 0.05,
+      "price": 2128.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:44:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:45:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:45:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:46:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.19,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:46:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.19,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:47:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:48:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:48:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2127.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:49:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:49:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:50:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:51:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:51:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:52:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:52:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:53:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:54:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:54:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:55:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:55:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:56:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:57:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:57:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:58:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.53,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:58:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.53,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 10:59:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:00:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:00:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:01:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.19,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:01:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2126.19,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:02:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:03:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:03:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:04:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:04:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:05:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.22,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:06:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.22,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:06:48",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:07:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:08:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:08:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.03,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:09:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.03,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:09:50",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.7,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:10:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.14,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:11:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.14,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:11:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:12:14",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:12:50",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.53,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:13:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.81,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:14:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.81,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:14:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:15:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:15:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:16:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:17:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:17:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:18:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:18:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.38,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:19:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:20:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:20:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:21:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:21:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.15,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:22:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:23:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:23:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:24:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:24:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:25:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2113.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:26:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2113.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:26:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2113.23,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:27:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2113.23,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:27:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:28:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:29:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:29:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:30:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:30:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:31:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:32:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:32:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:33:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:33:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:34:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.11,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:35:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.11,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:35:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:36:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:36:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.47,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:37:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:38:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:38:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.15,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:39:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.15,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:39:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.82,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:40:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:41:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:41:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.9,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:42:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:42:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:43:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:44:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:44:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:45:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:45:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:46:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:47:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:47:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:48:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:48:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:49:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:50:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:50:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:51:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:51:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:52:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:53:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:53:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:54:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:54:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:55:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:56:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:56:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.58,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:57:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:57:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:58:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.28,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:59:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.28,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 11:59:48",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:00:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:01:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:01:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:02:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:02:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:03:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:04:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:04:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:05:14",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:05:50",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.71,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:06:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:07:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:07:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:08:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:08:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:09:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.4,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:10:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.4,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:10:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:11:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:11:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.83,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:12:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.59,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:13:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.59,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:13:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:14:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:14:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:15:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:16:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:16:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.73,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:17:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.73,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:17:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.1,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:18:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:19:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:19:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:20:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:20:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.9,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:21:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:22:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:22:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:23:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:23:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.52,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:24:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.99,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:25:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.99,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:25:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.1,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:26:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.1,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:26:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:27:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:28:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2114.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:28:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:29:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:29:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:30:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:31:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:31:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:32:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:32:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:33:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:34:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:34:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:35:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:35:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.59,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:36:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:37:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:37:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:38:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:38:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:39:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:40:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:40:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.44,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:41:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.44,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:41:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:42:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:43:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:43:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:44:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:44:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:45:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:46:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:46:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:47:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:47:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:48:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:49:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:49:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:50:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:50:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:51:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:52:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:52:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.52,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:53:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.9,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:54:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.9,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:54:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:55:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:55:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:56:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:57:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:57:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:58:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.63,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:58:50",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 12:59:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:00:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:00:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:01:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:01:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:02:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:03:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:03:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:04:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:04:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:05:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.1,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:06:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.1,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:06:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:07:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:07:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.14,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:08:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:09:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:09:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:10:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:10:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.9,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:11:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:12:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:12:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:13:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:13:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:14:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.65,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:15:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.65,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:15:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:16:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:16:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:17:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.72,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:18:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.72,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:18:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.15,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:19:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.15,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:19:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:20:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:21:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:21:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.76,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:22:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.76,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:22:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.83,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:23:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:24:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:24:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:25:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:25:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:26:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:27:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:27:48",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:28:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:29:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:29:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:30:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:30:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:31:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:32:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.35,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:32:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:33:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:33:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:34:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:35:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:35:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:36:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:36:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.26,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:37:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:38:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:38:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:39:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:39:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:40:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:41:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:41:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:42:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:42:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:43:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.28,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:44:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.28,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:44:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:45:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:45:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.84,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:46:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:47:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:47:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:48:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:48:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.34,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:49:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:50:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:50:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:51:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:51:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:52:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:53:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:53:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:54:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:54:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:55:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:56:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:56:43",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:57:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:57:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.08,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:58:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:59:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 13:59:44",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:00:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:00:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:01:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:02:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:02:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:03:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:03:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:04:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:05:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:05:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:06:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:06:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.99,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:07:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:08:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:08:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:09:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:09:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.71,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:10:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.73,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:11:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.73,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:11:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:12:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:12:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.44,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:13:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:14:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:14:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:15:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:15:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:16:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:17:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:17:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:18:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:18:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:19:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:20:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:20:48",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:21:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:22:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.22,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:22:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:23:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:23:48",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.84,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:24:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.84,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:25:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.48,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:25:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.53,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:26:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.53,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:26:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:27:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:28:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.91,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:28:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:29:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:29:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.05,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:30:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.05,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:31:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:31:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:32:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.02,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:32:50",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:33:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:34:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:34:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:35:14",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:35:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:36:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:37:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.86,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:37:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.83,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:38:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.83,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:38:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.76,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:39:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.76,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:40:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:40:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:41:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2123.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:41:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:42:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:43:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2125.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:43:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:44:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:44:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:45:28",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:46:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:46:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:47:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2124.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:47:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2122.82,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:48:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:49:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:49:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:50:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2121.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:50:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:51:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:52:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:52:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.38,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:53:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2120.38,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:53:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.76,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:54:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:55:08",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:55:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.58,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:56:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.58,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:56:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2119.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:57:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:58:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.61,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:58:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.2,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:59:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.2,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 14:59:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:00:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:01:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:01:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:02:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:02:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:03:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:04:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:04:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:05:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2117.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:05:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.74,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:06:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:07:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:07:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:08:23",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:09:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:09:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.59,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:10:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.59,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:10:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:11:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:12:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.24,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:12:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:13:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:13:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:14:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2115.77,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:15:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:15:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.49,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:16:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:16:53",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2116.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:17:32",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:25:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2118.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:53:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.58,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:54:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2096.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:55:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2096.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:55:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2096.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:56:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2099.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:56:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2096.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:57:37",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:58:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:58:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.14,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 15:59:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.6,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:00:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.52,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:00:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:01:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2097.55,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:02:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2099.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:02:51",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2096.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:03:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2095.12,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:04:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2092.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:04:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2094.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:05:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2092.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:06:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2092.4,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:06:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2092.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:12:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:13:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:14:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2086.99,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:14:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.47,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:15:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2087.7,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:16:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:16:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2087.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:17:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:18:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.42,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:18:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:19:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:20:14",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:20:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.56,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:21:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:22:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:22:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:23:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:24:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2091.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:24:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:25:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:26:10",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:26:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2090.04,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:27:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.11,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:28:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2089.38,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:28:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.81,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:29:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2088.81,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:29:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2087.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:30:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2087.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:31:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2085.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:31:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:32:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2083.17,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:32:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.96,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:33:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:34:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:34:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.24,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:35:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.24,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:36:03",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.11,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:36:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:37:16",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.21,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:37:54",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:38:31",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:39:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.12,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:39:46",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2066.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:40:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.88,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:41:05",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2066.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:41:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2060.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:42:26",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.97,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:43:07",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2059.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:43:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2059.94,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:44:27",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2060.79,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:45:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:45:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.65,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:46:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.65,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:46:56",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:47:33",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:48:11",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:48:47",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.4,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:49:25",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.4,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:50:02",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.32,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:50:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:51:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2061.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:51:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2060.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:52:29",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2060.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:53:09",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:53:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.13,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:54:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2064.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:55:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2066.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:55:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.2,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:56:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.12,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:57:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:57:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.25,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:58:35",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2064.05,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:59:15",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2064.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 16:59:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2062.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:00:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2063.92,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:01:17",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2065.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:02:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:02:41",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.67,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:03:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.84,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:03:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:04:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.72,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:05:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.95,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:06:01",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.48,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:06:42",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.33,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:07:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:08:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2072.36,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:08:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:09:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.06,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:09:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2072.07,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:10:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2072.16,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:11:21",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2072.46,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:12:04",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.73,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:12:45",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.12,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:13:24",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:14:06",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.28,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:14:49",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.48,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:15:30",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.44,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:16:12",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.57,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:16:52",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:17:34",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.66,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:18:13",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2072.18,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:18:55",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.43,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:19:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.72,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:20:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.69,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:20:57",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:21:36",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.89,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:22:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:22:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.93,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:23:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.51,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:24:20",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.98,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:24:59",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:25:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.41,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:26:18",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.31,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:26:58",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.45,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:27:38",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.78,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:28:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:29:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2070.3,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:29:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2071.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:30:22",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.62,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:31:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2069.8,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:31:40",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2068.01,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:32:19",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:33:00",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2066.72,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 17:33:39",
+      "type": "BUY",
+      "eth_amount": 2.4e-05,
+      "usdc_amount": 0.05,
+      "price": 2067.85,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:25:40",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:26:50",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:27:58",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:28:54",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:30:04",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-22 23:31:23",
+      "type": "BUY",
+      "eth_amount": 0.00472,
+      "usdc_amount": 10.0,
+      "price": 2118.5,
+      "pnl": 0.0
+    }
+  ],
+  "price_history": [
+    {
+      "timestamp": "2026-05-23 10:06:22",
+      "price": 2034.88
+    },
+    {
+      "timestamp": "2026-05-23 10:07:02",
+      "price": 2034.32
+    },
+    {
+      "timestamp": "2026-05-23 10:07:42",
+      "price": 2034.32
+    },
+    {
+      "timestamp": "2026-05-23 10:08:22",
+      "price": 2035.92
+    },
+    {
+      "timestamp": "2026-05-23 10:09:03",
+      "price": 2036.6
+    },
+    {
+      "timestamp": "2026-05-23 10:09:42",
+      "price": 2036.6
+    },
+    {
+      "timestamp": "2026-05-23 10:10:23",
+      "price": 2036.72
+    },
+    {
+      "timestamp": "2026-05-23 10:11:05",
+      "price": 2036.75
+    },
+    {
+      "timestamp": "2026-05-23 10:11:45",
+      "price": 2036.75
+    },
+    {
+      "timestamp": "2026-05-23 10:12:25",
+      "price": 2036.36
+    },
+    {
+      "timestamp": "2026-05-23 10:13:05",
+      "price": 2036.35
+    },
+    {
+      "timestamp": "2026-05-23 10:13:45",
+      "price": 2036.35
+    },
+    {
+      "timestamp": "2026-05-23 10:14:25",
+      "price": 2036.09
+    },
+    {
+      "timestamp": "2026-05-23 10:15:06",
+      "price": 2036.1
+    },
+    {
+      "timestamp": "2026-05-23 10:15:46",
+      "price": 2036.1
+    },
+    {
+      "timestamp": "2026-05-23 10:16:26",
+      "price": 2036.36
+    },
+    {
+      "timestamp": "2026-05-23 10:17:10",
+      "price": 2040.27
+    },
+    {
+      "timestamp": "2026-05-23 10:17:53",
+      "price": 2040.36
+    },
+    {
+      "timestamp": "2026-05-23 10:18:32",
+      "price": 2040.36
+    },
+    {
+      "timestamp": "2026-05-23 10:19:11",
+      "price": 2040.6
+    }
+  ],
+  "simulated_eth_balance": 0.09402216941074977,
+  "simulated_usdc_balance": 6.450000000001907,
+  "undistributed_profit": 0.8004749999999803,
+  "simulated_hyperliquid_balance": 948.328445,
+  "simulated_hyperliquid_positions": {
+    "ETH": {
+      "coin": "ETH",
+      "szi": 0.0738,
+      "entryPx": 2031.55,
+      "side": "SHORT",
+      "leverage": 3,
+      "unrealizedPnl": -0.9705,
+      "marginUsed": 50.0
+    }
+  },
+  "futures_sl_tp_targets": {
+    "ETH": {
+      "sl": 2133.1275,
+      "tp": 1828.395,
+      "direction": "SHORT",
+      "sz": 0.0738,
+      "entry_px": 2031.55
+    }
+  },
+  "futures_trades_history": [
+    {
+      "timestamp": "2026-05-22 23:35:27",
+      "type": "OPEN_LONG",
+      "coin": "ETH",
+      "sz": 0.0725,
+      "price": 2068.65,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 1965.22,
+      "tp": 2275.52,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-23 00:26:01",
+      "type": "CLOSE_LONG",
+      "coin": "ETH",
+      "sz": 0.0725,
+      "price": 2073.2,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": 0.33
+    },
+    {
+      "timestamp": "2026-05-23 00:27:05",
+      "type": "OPEN_SHORT",
+      "coin": "ETH",
+      "sz": 0.0724,
+      "price": 2073.05,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 2176.7,
+      "tp": 1865.75,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-23 03:51:04",
+      "type": "CLOSE_SHORT",
+      "coin": "ETH",
+      "sz": 0.0724,
+      "price": 2066.55,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": 0.47
+    },
+    {
+      "timestamp": "2026-05-23 03:51:57",
+      "type": "OPEN_LONG",
+      "coin": "ETH",
+      "sz": 0.0726,
+      "price": 2066.6,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 1963.27,
+      "tp": 2273.26,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-23 06:45:55",
+      "type": "CLOSE_LONG",
+      "coin": "ETH",
+      "sz": 0.0726,
+      "price": 2032.55,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": -2.47
+    },
+    {
+      "timestamp": "2026-05-23 06:46:51",
+      "type": "OPEN_SHORT",
+      "coin": "ETH",
+      "sz": 0.0738,
+      "price": 2031.55,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 2133.13,
+      "tp": 1828.39,
+      "pnl": 0.0
+    }
+  ],
+  "futures_pnl_history": []
+}
