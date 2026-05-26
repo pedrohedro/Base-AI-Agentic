@@ -24,7 +24,9 @@ cdp_api_key.json
 *.db
 *.sqlite
 
-# IDE configuration
+# IDE and Tool configurations
 .vscode/
 .idea/
 .DS_Store
+.claude/
+monitor_state.json

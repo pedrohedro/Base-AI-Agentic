@@ -1,8 +1,8 @@
 {
-  "average_buy_price": 2140.484552602082,
-  "total_eth_bought": 0.04588447035537105,
-  "total_usdc_spent": 98.2149999999999,
-  "total_trades": 680,
+  "average_buy_price": 2139.116565976377,
+  "total_eth_bought": 0.04892907738864931,
+  "total_usdc_spent": 104.6649999999999,
+  "total_trades": 681,
   "trades_history": [
     {
       "timestamp": "2026-05-21 12:30:15",
@@ -5443,112 +5443,120 @@
       "usdc_amount": 10.0,
       "price": 2118.5,
       "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-25 15:06:41",
+      "type": "BUY",
+      "eth_amount": 0.003045,
+      "usdc_amount": 6.45,
+      "price": 2118.5,
+      "pnl": 0.0
     }
   ],
   "price_history": [
     {
-      "timestamp": "2026-05-23 10:06:22",
-      "price": 2034.88
+      "timestamp": "2026-05-25 15:20:45",
+      "price": 2130.15
     },
     {
-      "timestamp": "2026-05-23 10:07:02",
-      "price": 2034.32
+      "timestamp": "2026-05-25 15:22:29",
+      "price": 2129.49903998
     },
     {
-      "timestamp": "2026-05-23 10:07:42",
-      "price": 2034.32
+      "timestamp": "2026-05-25 15:23:38",
+      "price": 2129.2
     },
     {
-      "timestamp": "2026-05-23 10:08:22",
-      "price": 2035.92
+      "timestamp": "2026-05-25 15:25:18",
+      "price": 2128.45531029
     },
     {
-      "timestamp": "2026-05-23 10:09:03",
-      "price": 2036.6
+      "timestamp": "2026-05-25 15:26:33",
+      "price": 2128.42
     },
     {
-      "timestamp": "2026-05-23 10:09:42",
-      "price": 2036.6
+      "timestamp": "2026-05-25 15:28:35",
+      "price": 2129.5450125
     },
     {
-      "timestamp": "2026-05-23 10:10:23",
-      "price": 2036.72
+      "timestamp": "2026-05-25 15:30:03",
+      "price": 2129.37
     },
     {
-      "timestamp": "2026-05-23 10:11:05",
-      "price": 2036.75
+      "timestamp": "2026-05-25 15:31:48",
+      "price": 2128.98044105
     },
     {
-      "timestamp": "2026-05-23 10:11:45",
-      "price": 2036.75
+      "timestamp": "2026-05-25 15:33:11",
+      "price": 2128.95
     },
     {
-      "timestamp": "2026-05-23 10:12:25",
-      "price": 2036.36
+      "timestamp": "2026-05-25 15:34:51",
+      "price": 2128.77
     },
     {
-      "timestamp": "2026-05-23 10:13:05",
-      "price": 2036.35
+      "timestamp": "2026-05-25 15:36:21",
+      "price": 2128.51
     },
     {
-      "timestamp": "2026-05-23 10:13:45",
-      "price": 2036.35
+      "timestamp": "2026-05-25 15:37:45",
+      "price": 2128.66
     },
     {
-      "timestamp": "2026-05-23 10:14:25",
-      "price": 2036.09
+      "timestamp": "2026-05-25 15:39:33",
+      "price": 2127.62
     },
     {
-      "timestamp": "2026-05-23 10:15:06",
-      "price": 2036.1
+      "timestamp": "2026-05-25 15:40:56",
+      "price": 2127.73
     },
     {
-      "timestamp": "2026-05-23 10:15:46",
-      "price": 2036.1
+      "timestamp": "2026-05-25 15:42:38",
+      "price": 2127.04750624
     },
     {
-      "timestamp": "2026-05-23 10:16:26",
-      "price": 2036.36
+      "timestamp": "2026-05-25 15:44:01",
+      "price": 2126.99
     },
     {
-      "timestamp": "2026-05-23 10:17:10",
-      "price": 2040.27
+      "timestamp": "2026-05-25 15:45:42",
+      "price": 2126.53750625
     },
     {
-      "timestamp": "2026-05-23 10:17:53",
-      "price": 2040.36
+      "timestamp": "2026-05-25 15:46:50",
+      "price": 2126.63
     },
     {
-      "timestamp": "2026-05-23 10:18:32",
-      "price": 2040.36
+      "timestamp": "2026-05-25 15:47:29",
+      "price": 2126.55
     },
     {
-      "timestamp": "2026-05-23 10:19:11",
-      "price": 2040.6
+      "timestamp": "2026-05-25 15:50:04",
+      "price": 2126.23
     }
   ],
-  "simulated_eth_balance": 0.09402216941074977,
-  "simulated_usdc_balance": 6.450000000001907,
-  "undistributed_profit": 0.8004749999999803,
-  "simulated_hyperliquid_balance": 948.328445,
+  "simulated_eth_balance": 0.09706677644402803,
+  "simulated_usdc_balance": 1.906919067096169e-12,
+  "undistributed_profit": 1.0212899999999867,
+  "simulated_hyperliquid_balance": 940.1349799999999,
   "simulated_hyperliquid_positions": {
     "ETH": {
       "coin": "ETH",
-      "szi": 0.0738,
-      "entryPx": 2031.55,
-      "side": "SHORT",
-      "leverage": 3,
-      "unrealizedPnl": -0.9705,
+      "szi": 0.0953,
+      "entryPx": 2097.85,
+      "side": "LONG",
+      "leverage": 4,
+      "unrealizedPnl": 2.3253,
       "marginUsed": 50.0
     }
   },
   "futures_sl_tp_targets": {
     "ETH": {
-      "sl": 2133.1275,
-      "tp": 1828.395,
-      "direction": "SHORT",
-      "sz": 0.0738,
-      "entry_px": 2031.55
+      "sl": 1992.9575,
+      "tp": 2307.635,
+      "direction": "LONG",
+      "sz": 0.0953,
+      "entry_px": 2097.85
     }
   },
   "futures_trades_history": [
@@ -5628,6 +5636,94 @@
       "margin": 50.0,
       "sl": 2133.13,
       "tp": 1828.39,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-25 11:28:04",
+      "type": "CLOSE_SHORT",
+      "coin": "ETH",
+      "sz": 0.0738,
+      "price": 2134.0,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": -7.56
+    },
+    {
+      "timestamp": "2026-05-25 14:14:40",
+      "type": "OPEN_SHORT",
+      "coin": "ETH",
+      "sz": 0.0701,
+      "price": 2140.3,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 2247.32,
+      "tp": 1926.27,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-25 14:43:03",
+      "type": "OPEN_SHORT",
+      "coin": "DOGE",
+      "sz": 1454.4,
+      "price": 0.103135,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 0.11,
+      "tp": 0.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-25 15:07:29",
+      "type": "CLOSE_SHORT",
+      "coin": "ETH",
+      "sz": 0.0701,
+      "price": 2137.15,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": 0.22
+    },
+    {
+      "timestamp": "2026-05-25 15:07:32",
+      "type": "CLOSE_SHORT",
+      "coin": "DOGE",
+      "sz": 1454.4,
+      "price": 0.103285,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": -0.22
+    },
+    {
+      "timestamp": "2026-05-25 15:07:36",
+      "type": "OPEN_LONG",
+      "coin": "ETH",
+      "sz": 0.0702,
+      "price": 2137.15,
+      "leverage": 3,
+      "margin": 50.0,
+      "sl": 2030.29,
+      "tp": 2350.87,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-05-25 16:04:06",
+      "type": "CLOSE_LONG",
+      "coin": "ETH",
+      "sz": 0.0702,
+      "price": 2128.1,
+      "leverage": 3,
+      "margin": 50.0,
+      "pnl": -0.64
+    },
+    {
+      "timestamp": "2026-05-26 04:17:34",
+      "type": "OPEN_LONG",
+      "coin": "ETH",
+      "sz": 0.0953,
+      "price": 2097.85,
+      "leverage": 4,
+      "margin": 50.0,
+      "sl": 1992.96,
+      "tp": 2307.64,
       "pnl": 0.0
     }
   ],

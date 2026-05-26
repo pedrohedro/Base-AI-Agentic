@@ -1,8 +1,9 @@
 {
   "mcpServers": {
     "base-trading-agent": {
-      "command": "venv/bin/python",
-      "args": ["mcp_server.py"],
+      "command": "/Users/pedrohedro/Base-AI-Agentic/venv/bin/python",
+      "args": ["/Users/pedrohedro/Base-AI-Agentic/mcp_server.py"],
+      "cwd": "/Users/pedrohedro/Base-AI-Agentic",
       "env": {}
     }
   }

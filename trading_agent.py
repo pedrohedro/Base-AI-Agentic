@@ -586,7 +586,7 @@ def create_trading_agent():
         try:
             import requests
             response = requests.get(url, headers=headers, timeout=5)
-            if response.status_code == 402 or True:
+            if response.status_code == 402:
                 payment_address = response.headers.get("X-Payment-Address", "0x54dB526aB5E14f3586Cd02E2c86B2f1aafFC")
                 payment_amount = response.headers.get("X-Payment-Amount", "10000") # 0.01 USDC
                 logger.warning(f"[x402] Requisição bloqueada por HTTP 402. Merchant: {payment_address} | Valor: {int(payment_amount)/1e6} USDC")
@@ -625,7 +625,7 @@ def create_trading_agent():
         try:
             import requests
             response = requests.get(url, timeout=5)
-            if response.status_code == 402 or True:
+            if response.status_code == 402:
                 payment_address = response.headers.get("X-Payment-Address", "0x54dB526aB5E14f3586Cd02E2c86B2f1aafFC")
                 payment_amount = response.headers.get("X-Payment-Amount", "5000") # 0.005 USDC
                 logger.warning(f"[x402] Auditoria svm402 bloqueada. Destinatário: {payment_address} | Valor: {int(payment_amount)/1e6} USDC")
@@ -1313,13 +1313,16 @@ def create_trading_agent():
 
     # 5. Configurar LLM ou Mock Fallback
     llm_provider = os.getenv("LLM_PROVIDER", "openai").lower()
-    
+
     is_mock = False
     gemini_api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
     openai_api_key = os.getenv("OPENAI_API_KEY")
-    
+    anthropic_api_key = os.getenv("ANTHROPIC_API_KEY")
+
     if llm_provider == "gemini":
         is_mock = not gemini_api_key or "AIzaSy..." in gemini_api_key or gemini_api_key == ""
+    elif llm_provider in ("claude", "anthropic"):
+        is_mock = not anthropic_api_key or "sk-ant-..." in anthropic_api_key or anthropic_api_key == ""
     else:
         is_mock = not openai_api_key or "sk-proj-..." in openai_api_key or openai_api_key == ""
         
@@ -1472,6 +1475,11 @@ def create_trading_agent():
             logger.info(f"Chave GEMINI_API_KEY válida encontrada. Inicializando LLM Gemini ({gemini_model}).")
             from langchain_google_genai import ChatGoogleGenerativeAI
             llm = ChatGoogleGenerativeAI(model=gemini_model, google_api_key=gemini_api_key)
+        elif llm_provider in ("claude", "anthropic"):
+            from langchain_anthropic import ChatAnthropic
+            anthropic_model = os.getenv("ANTHROPIC_MODEL", "claude-haiku-4-5-20251001")
+            logger.info(f"Chave ANTHROPIC_API_KEY válida encontrada. Inicializando LLM Claude ({anthropic_model}).")
+            llm = ChatAnthropic(model=anthropic_model, api_key=anthropic_api_key)
         else:
             openai_model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
             logger.info(f"Chave OPENAI_API_KEY válida encontrada. Inicializando LLM ChatGPT ({openai_model}).")
